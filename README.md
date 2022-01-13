@@ -4,15 +4,17 @@ S4G Consulting awesome Salesforce solutions
 
 ## Contents
 
-- [Projects](#projects)
-- [Appexchange Apps](#appexchange)
+- [Open Source Apps](#open-source-apps)
+- [Free Appexchange Apps](#free-appexchange-apps)
+- [Frameworks](#frameworks)
 
-## Projects
+## Open Source Apps
 - [Report Type Order](https://github.com/sindresorhus/awesome-nodejs#readme) - Order automatically your custom report type fields for new custom fields!
 	
-## Appexchange Apps
-
-## Contributing
+## Free Appexchange Apps
+- [XXX](https://github.com/sindresorhus/awesome-nodejs#readme) - xxx
+## Frameworks
+- [YYY](https://github.com/sindresorhus/awesome-nodejs#readme) - yyy
 
 Contributions are very welcome!
 
