@@ -16,11 +16,13 @@ S4G Consulting awesome Salesforce solutions
 ## Free Appexchange Apps
 - [CMTD Enhanced Related List](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FYDY4UAP) - “Custom Metadata Type Driven” Lightning Component that provides enhanced features to display related list records in Lightning App.
 ## Frameworks
-- [YYY](https://github.com/sindresorhus/awesome-nodejs#readme) - yyy
+- [Apex Trigger Actions Framework](https://github.com/mitchspano/apex-trigger-actions-framework) - always use a framework in Apex Triggers. This is our recommentation.
+- [Apex Test Data Factory](https://github.com/benahm/TestDataFactory) - Generate & insert an sObject with all the required fields & relationships auto-filled
+
 
 ## Awesome Awesome Repositories
 - [Awesome LWC](https://github.com/Confirm4Crit/awesome-lwc) - list of prebuilt awesome lightning web components 
 
 Contributions are very welcome!
 
-Please have a look at the [CONTRIBUTING](https://github.com/S4GConsulting/awesome-s4g.git/blob/master/CONTRIBUTING.md) guidelines.
+Please have a look at the [CONTRIBUTING](https://github.com/S4GConsulting/awesome-s4g.git/main/contributing.md) guidelines.
