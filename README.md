@@ -7,6 +7,7 @@ S4G Consulting awesome Salesforce solutions
 - [Open Source Apps](#open-source-apps)
 - [Free Appexchange Apps](#free-appexchange-apps)
 - [Frameworks](#frameworks)
+- [Awesome Awesome Repositories](#awesome-awesome-repositories)
 
 ## Open Source Apps
 - [Report Type Order](https://github.com/jesuRule/reportTypeSorter#readme) - Order automatically your custom report type fields for new custom fields!
@@ -17,6 +18,9 @@ S4G Consulting awesome Salesforce solutions
 ## Frameworks
 - [YYY](https://github.com/sindresorhus/awesome-nodejs#readme) - yyy
 
+## Awesome Awesome Repositories
+- [Awesome LWC](https://github.com/Confirm4Crit/awesome-lwc) - list of prebuilt awesome lightning web components 
+
 Contributions are very welcome!
 
-Please have a look at the [CONTRIBUTING](https://github.com/https://github.com/S4GConsulting/awesome-s4g.git/blob/master/CONTRIBUTING.md) guidelines.
+Please have a look at the [CONTRIBUTING](https://github.com/S4GConsulting/awesome-s4g.git/blob/master/CONTRIBUTING.md) guidelines.
