@@ -10,7 +10,7 @@ S4G Consulting awesome Salesforce solutions
 - [Awesome Awesome Repositories](#awesome-awesome-repositories)
 
 ## Open Source Apps
-- [Report Type Order](https://github.com/jesuRule/reportTypeSorter#readme) - Order automatically your custom report type fields for new custom fields!
+- [Report Type Order](https://github.com/jesuRule/reportTypeSorter#readme) - Automatically sort your custom report type fields for new custom fields!
 - [Safety Queue Runner](https://github.com/leshchukandrej/SafetyQueueRunner) - Control queue execution. In case if you want to enqueue job later or to enqueue it safely, use this class.
 	
 ## Free Appexchange Apps
